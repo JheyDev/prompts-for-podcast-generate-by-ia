@@ -20,7 +20,7 @@
 
 <p align="center">
     <strong>Preview do podcast:</strong><br>
-    <a href="output/podcast_editado.mp3" target="_blank">🔊 Ouça o podcast editado</a>
+    <a href="output/podcast_editado.mp3" target="_blank">🔊 Ouça o podcast aqui</a>
 </p>
 
 <div align="center">
